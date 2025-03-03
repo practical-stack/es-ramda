@@ -11,7 +11,8 @@
   "devDependencies": {
     "prettier": "^3.5.3",
     "turbo": "^2.4.4",
-    "typescript": "5.7.3"
+    "typescript": "5.7.3",
+    "@trivago/prettier-plugin-sort-imports": "^5.2.2"
   },
   "packageManager": "pnpm@10.5.0",
   "engines": {
